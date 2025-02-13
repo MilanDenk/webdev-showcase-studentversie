@@ -7,4 +7,9 @@
     <RootNamespace>Showcase_Profielpagina</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\images\Sambuca Rickert.jpg" />
+    <Content Remove="wwwroot\images\Schermafbeelding 2024-01-12 114433.png" />
+  </ItemGroup>
+
 </Project>

@@ -60,6 +60,7 @@ namespace Showcase_Contactpagina.Controllers
 
             ViewBag.Message = "Het contactformulier is verstuurd";
             
+            
             return View();
         }
     }

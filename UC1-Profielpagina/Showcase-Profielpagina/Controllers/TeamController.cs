@@ -4,7 +4,8 @@ namespace Showcase_Profielpagina.Controllers
 {
     public class TeamController : Controller
     {
-        public IActionResult Topteam()
+        
+        public IActionResult index()
         {
             return View();
         }
